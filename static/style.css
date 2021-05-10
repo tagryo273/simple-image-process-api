@@ -1,0 +1,28 @@
+body {
+    margin:10px;
+    background-color:aliceblue;
+    }
+h1 {color:lightblue;
+    font-size:36pt;
+    margin:0px; /* 余白 */
+    }
+p {
+    font-size:14pt;
+}
+div.footer{
+    text-align:right;/* ブロックコンテナ内の行の揃え、位置・均等割り付けを指定*/
+    border-bottom: 1px solid lightskyblue;/*下ボーダーのスタイルなどを指定 solid 1ポン線で表示する */
+    margin: 50px 0px ;
+}
+pre{
+    background-color: white;
+    font-size: 20pt;
+    padding: 10px;
+}
+div.logout{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-weight: bold;
+    font-size: 12pt;
+}
