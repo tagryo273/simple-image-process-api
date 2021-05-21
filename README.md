@@ -3,7 +3,8 @@
 単純な画像処理を入れたwebAPI
  
 # 使い方
-最初にUnet_landscape.ipynbを動かしてください
+最初にUnet_landscape.ipynbを動かしてください。
+
 その後、app.pyを動かしてください。
  
 # 機能
