@@ -14,7 +14,7 @@
 
 ↓
 
-![landscape_0](https://user-images.githubusercontent.com/59006120/119087512-3a151480-ba42-11eb-957f-f7f572bbf455.png)
+
 # 開発
  
 anaconda環境下
