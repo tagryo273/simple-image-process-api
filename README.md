@@ -1,4 +1,4 @@
-# simple-image-process-app
+# simple-image-process-api
 
 単純な画像処理を入れたwebAPI
  
